@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1754313665 source:c:\esp\tarea8\enumeraciones\main.c
+	<stdio.h>
+	<stdlib.h>
+
